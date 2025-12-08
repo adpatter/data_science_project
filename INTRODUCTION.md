@@ -315,4 +315,4 @@ You can publish your package by following the instructions in the [tutorial](htt
 
 If you have a feature request or run into any issues, feel free to submit an [issue](https://github.com/adpatter/data_science_project/issues) or start a [discussion](https://github.com/adpatter/data_science_project/discussions). You’re also welcome to reach out directly to one of the authors.
 
-- [Adam Patterson](https://github.com/adamjpatterson)
+- [Adam Patterson](https://github.com/adpatter)
